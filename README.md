@@ -69,7 +69,9 @@ accuracy
 
 ![4](https://user-images.githubusercontent.com/93992063/204023231-517a6825-a046-4e9f-8cde-49c378cbc918.png)
 
+![6](https://user-images.githubusercontent.com/93992063/204023638-20e22427-1996-4af3-b7a1-fbab4b7d0b43.png)
 
+![7](https://user-images.githubusercontent.com/93992063/204023651-eb8db8cd-a6c7-468a-a962-4782bb843f6b.png)
 
 
 
