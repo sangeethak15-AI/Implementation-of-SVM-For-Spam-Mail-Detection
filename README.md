@@ -62,6 +62,8 @@ accuracy=metrics.accuracy_score(y_test,y_pred)
 accuracy
 ```
 ## Output:
+![q1](https://user-images.githubusercontent.com/93992063/204533287-64be9d9f-104e-4913-8b46-28b202298526.png)
+
 
 ![2](https://user-images.githubusercontent.com/93992063/204023190-5a1135d2-18ba-4597-bf56-07b34b649612.png)
 
@@ -69,12 +71,11 @@ accuracy
 
 ![4](https://user-images.githubusercontent.com/93992063/204023231-517a6825-a046-4e9f-8cde-49c378cbc918.png)
 
-![6](https://user-images.githubusercontent.com/93992063/204023638-20e22427-1996-4af3-b7a1-fbab4b7d0b43.png)
 
-![7](https://user-images.githubusercontent.com/93992063/204023651-eb8db8cd-a6c7-468a-a962-4782bb843f6b.png)
-
+![q5](https://user-images.githubusercontent.com/93992063/204533402-7fae8e08-ebd2-4919-8d88-268a93e6332a.png)
 
 
+![q6](https://user-images.githubusercontent.com/93992063/204533429-3d8ef49d-e92a-4698-b234-1ea2ff7ec35b.png)
 
 
 ## Result:
